@@ -3,7 +3,7 @@
 **Effective Date:** November 16, 2026  
 **Last Updated:** November 16, 2026
 
-This Privacy Policy explains how **ETPC Group Bots** (such as **ETPC Core**, **ETPC Support**, and other official bots operated by the English Test Prep Club, collectively referred to as **"we"**, **"us"**, or the **"Bots"**) collect, use, store, and protect information from Discord users and servers.
+This Privacy Policy explains how **ETPC Group Bots** (such as **ETPC Core**, **ETPC Support**, and other official bots operated by the English Test Prep Community, collectively referred to as **"we"**, **"us"**, or the **"Bots"**) collect, use, store, and protect information from Discord users and servers.
 
 ---
 
