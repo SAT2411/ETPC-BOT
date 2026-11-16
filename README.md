@@ -1,6 +1,6 @@
 # ETPC Group Bots — Legal & Policy Documents
 
-Official legal documentation for **ETPC Group Bots** (such as **ETPC Core**, **ETPC Support**, etc.), operated by the **English Test Prep Club (ETPC)**.
+Official legal documentation for **ETPC Group Bots** (such as **ETPC Core**, **ETPC Support**, etc.), operated by the **English Test Prep Community (ETPC)**.
 
 ## 📄 Documents
 
