@@ -3,7 +3,7 @@
 **Effective Date:** November 16, 2026  
 **Last Updated:** November 16, 2026
 
-Welcome to **ETPC Group Bots** (including, without limitation, **ETPC Core**, **ETPC Support**, and any related official bots or utilities operated by the English Test Prep Club team, collectively referred to as the **"Bots"** or **"Services"**).
+Welcome to **ETPC Group Bots** (including, without limitation, **ETPC Core**, **ETPC Support**, and any related official bots or utilities operated by the English Test Prep Community team, collectively referred to as the **"Bots"** or **"Services"**).
 
 By inviting, accessing, or interacting with any of the ETPC Group Bots in a Discord server, you agree to be bound by these Terms of Service (**"Terms"**). If you do not agree to these Terms, please do not use or interact with the Bots.
 
@@ -53,4 +53,4 @@ We may revise these Terms from time to time. Continued use of any ETPC Group Bot
 ---
 
 ### 8. Contact Information
-For questions, concerns, or support regarding these Terms of Service, please contact the English Test Prep Club (ETPC) administration team through our official Discord server or via our support desk.
+For questions, concerns, or support regarding these Terms of Service, please contact the English Test Prep Community (ETPC) administration team through our official Discord server or via our support desk.
